@@ -1,1 +1,1 @@
-
+クラス、関数が追加されました。またnode.js版、javascript版、python版がリリースされました。
